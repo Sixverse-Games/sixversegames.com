@@ -3,8 +3,8 @@
 :HL["/_next/static/media/space_grotesk_latin_500_normal-s.p.33jdofnh71adk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/space_grotesk_latin_600_normal-s.p.406z--bjzi1j-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/assets/brand/wordmark.svg","image"]
-:HL["/assets/wwo-real/ingame-wateredge-2026-10.webp","image",{"imageSrcSet":"/assets/wwo-real/ingame-wateredge-2026-10-small.webp 800w, /assets/wwo-real/ingame-wateredge-2026-10.webp 1600w","imageSizes":"100vw","fetchPriority":"high"}]
+:HL["/assets/wwo-real/game-hero-courtyard-2026-10-1850.webp","image",{"imageSrcSet":"/assets/wwo-real/game-hero-courtyard-2026-10-1200.webp 1200w, /assets/wwo-real/game-hero-courtyard-2026-10-1850.webp 1850w","imageSizes":"(max-width: 900px) 100vw, 80vw","fetchPriority":"high"}]
 :HL["/assets/brand/wwo-logo-a2.svg","image",{"fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"wild-world-online","h":96,"c":"$Q2"}]]
-0:{"b":"KUTBd2N_5GjpCNKaBFKli","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"BQQK5lgQp-T3NjtJcwX_1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
