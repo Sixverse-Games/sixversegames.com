@@ -6,8 +6,8 @@
 :HL["/_next/static/media/space_grotesk_latin_400_normal-s.p.1c6pcavxma0qq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/space_grotesk_latin_500_normal-s.p.33jdofnh71adk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/space_grotesk_latin_600_normal-s.p.406z--bjzi1j-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/2oafjdfqaoxd2.css","style"]
+:HL["/_next/static/chunks/1f9m789jrqx5p.css","style"]
 :HL["/assets/brand/wordmark.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"universe","h":96,"c":"$Q2"}]]
-0:{"b":"7Nd3xx_sdtFd909tr1cUR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ZtXn8-wztZulWp8IUiHjr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
